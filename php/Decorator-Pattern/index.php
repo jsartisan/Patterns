@@ -3,9 +3,9 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 use Pattern\Components\DarkRoast;
-use Pattern\Condiments\Mocha;
+use Pattern\Decorators\Mocha;
 use Pattern\Components\Espresso;
-use Pattern\Condiments\SteamedMilk;
+use Pattern\Decorators\SteamedMilk;
 
 // creating Dark Roast With Mocha
 $dark_roast = new DarkRoast;

@@ -1,0 +1,15 @@
+{
+    "name": "root/observer-pattern",
+    "authors": [
+        {
+            "name": "Pawan Kumar",
+            "email": "pawan.kumar@squareboat.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Pattern\\": "src/"
+      }
+    }
+}

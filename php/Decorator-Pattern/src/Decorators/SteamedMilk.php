@@ -1,4 +1,4 @@
-<?php namespace Pattern\Condiments;
+<?php namespace Pattern\Decorators;
 
 use Pattern\Abstracts\Beverage;
 use Pattern\Abstracts\Condiment;
