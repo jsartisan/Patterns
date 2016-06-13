@@ -1,0 +1,15 @@
+{
+  "name": "root/singleton-pattern",
+  "authors": [
+    {
+      "name": "Pawan Kumar",
+      "email": "pawan.stardust@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Pattern\\": "src/"
+    }
+  }
+}
